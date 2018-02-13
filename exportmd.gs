@@ -284,7 +284,7 @@ function getCommentAttributes(attributes, comment_list_settings) {
   
   
   /*
-    - attributes: array of attributes to filter/match on
+    - attributes: array  of attributes to filter/match on
     - comment_list_settings: (optional) object with properties corresponding to switches in getDocComments
     
     This function outputs an array of the same length as the comment list, containing
